@@ -1,0 +1,36 @@
+body{
+    background-color:#F5B841 ;
+}
+p{
+   font-size: 20px; 
+    font-family: "Sekuya", system-ui;
+    background-color: red;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+a{
+    background-color: green;
+    display: block;
+    text-align: center;  
+    text-decoration: none;
+}
+h2{margin-top: 30px;
+    margin-bottom: 30px;
+    border: 2px solid blue;
+    border-radius: 4px;    
+}
+button{
+    padding: 8px;
+    background-color: #226CE0 ;
+    font-family: "Fruktur", system-ui; 
+    border: 2px #226CE0;
+    border-radius: 2px;
+    cursor: pointer;
+    
+
+}
+body{
+    margin: 0;
+}
+ 
